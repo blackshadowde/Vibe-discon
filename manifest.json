@@ -1,0 +1,30 @@
+{
+  "background_color": "#10112a",
+  "description": "Vibe dark mode workspace with Matrix timeline and push notifications.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "blackshadowde.github.vibe",
+  "orientation": "any",
+  "scope": "/Vibe/",
+  "short_name": "Vibe",
+  "start_url": "/Vibe/",
+  "theme_color": "#5865f2",
+  "icons": [
+    {
+      "src": "https://blackshadowde.github.io/icon-192.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.vibe.messenger",
+  "lang": "en",
+  "categories": [
+    "social networking"
+  ]
+}
