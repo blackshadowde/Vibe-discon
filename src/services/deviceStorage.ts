@@ -1,7 +1,7 @@
 import { registerPlugin, Capacitor } from '@capacitor/core';
 import { Preferences } from '@capacitor/preferences';
 import { Share } from '@capacitor/share';
-import { Media } from '@capacitor-community/media';
+//import { Media } from '@capacitor-community/media';
 import { isNative } from '../native/platform';
 import { ensureDownloaded, markSavedToDevice, DownloadRecord } from './downloadManager';
 
