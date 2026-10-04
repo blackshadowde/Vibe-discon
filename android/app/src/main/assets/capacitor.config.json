@@ -1,0 +1,13 @@
+{
+	"appId": "com.secureconnect.app",
+	"appName": "SecureConnect",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"Keyboard": {
+			"resize": "body"
+		}
+	}
+}

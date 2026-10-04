@@ -1,0 +1,5 @@
+{
+  "name": "Vibe - Matrix Workspace & Chat",
+  "description": "Vibe dark mode workspace with Matrix E2EE timeline, push notifications, and interactive device verification.",
+  "requestFramePermissions": ["microphone", "geolocation", "camera"]
+}
