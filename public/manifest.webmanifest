@@ -1,26 +1,26 @@
 {
   "name": "Vibe",
   "short_name": "Vibe",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/Vibe/",
+  "scope": "/Vibe/",
   "display": "standalone",
   "background_color": "#10112a",
-  "theme_color": "#10112a",
+  "theme_color": "#5865f2",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/Vibe/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/Vibe/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon-maskable-512.png",
+      "src": "/Vibe/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
