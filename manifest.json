@@ -16,17 +16,17 @@
   ],
   "icons": [
     {
-      "src": "https://blackshadowde.github.io/Vibe/icon-192.png",
+      "src": "/Vibe/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://blackshadowde.github.io/Vibe/icon-512.png",
+      "src": "/Vibe/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://blackshadowde.github.io/Vibe/icon-maskable-512.png",
+      "src": "/Vibe/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
